@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "question": "Who is the author of The Dying Sun?",
+      "options": [
+        "Isaac Asimov",
+        "Bertrand Russell",
+        "John Keats",
+        "G. L. Vidyarthi"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In The Dying Sun, what is the primary focus of the essay?",
+      "options": [
+        "The beauty of the night sky",
+        "The life cycle of stars",
+        "The mythology of constellations",
+        "The impact of the sun on Earth"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which literary device is used in the poem The Rain?",
+      "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In the essay Why Boys Fail in College, what does Herbert E. Hawkes suggest as a reason for failure?",
+      "options": [
+        "Lack of intelligence",
+        "Poor financial support",
+        "Insufficient hard work",
+        "Distractions and lack of discipline"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Who is the author of the short story Thank You, M'am?",
+      "options": [
+        "Langston Hughes",
+        "O. Henry",
+        "Mark Twain",
+        "Washington Irving"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In the poem The Rain, what does the poet compare rain to?",
+      "options": ["Music", "Poetry", "Life", "Tears"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the primary theme of the essay My Bank Account?",
+      "options": [
+        "Poverty",
+        "Humor and irony",
+        "Financial management",
+        "Wealth"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which character in the story The Reward is known for their persistent nature?",
+      "options": ["Captain Hagberd", "Narrator", "James", "Miss Meadows"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What does the poet celebrate in the poem The Delight Song of Tsoai-Talee?",
+      "options": [
+        "Nature and identity",
+        "Love and romance",
+        "Sorrow and loss",
+        "War and peace"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In The Piece of String, what is the main conflict of the story?",
+      "options": ["War", "Deception and mistrust", "Poverty", "Friendship"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the moral lesson in The Use of Force by William Carlos Williams?",
+      "options": [
+        "The necessity of violence",
+        "The ethics of power and authority",
+        "The importance of honesty",
+        "The value of friendship"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which literary device is primarily used in the poem Patriotism?",
+      "options": ["Irony", "Simile", "Metaphor", "Alliteration"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the main theme of Leisure by W. H. Davies?",
+      "options": [
+        "The beauty of nature",
+        "The importance of time management",
+        "The rush of modern life",
+        "The joy of solitude"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "In the story The Necklace, what is Mathilde's main flaw?",
+      "options": ["Greed", "Kindness", "Intelligence", "Vanity"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which poem by William Wordsworth is included in the first-year English textbook?",
+      "options": [
+        "Daffodils",
+        "The Solitary Reaper",
+        "Lucy Gray",
+        "The Prelude"
+      ],
+      "correctOption": 0,
+      "points": 10
+    }
+  ]
+}
